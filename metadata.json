@@ -1,0 +1,6 @@
+{
+  "name": "Cloud-Native ETL Architect",
+  "description": "Visualizing a hybrid AWS ETL platform using Glue, EMR, and Step Functions with a Medallion Architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
